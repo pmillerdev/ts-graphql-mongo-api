@@ -1,11 +1,11 @@
 # TypeScript and GraphQL API
 
-A GraphQL API written in TypeScript that connects to a MongoDB database using mongoose.
+A GraphQL API I created to improve my back-end skills.
 
-Created for my own learning and professional development.
+Technologies used: TypeScript, MongoDB, Mongoose, GraphQL.
 
-## Run the API
+## Running Locally
 
 1. Ensure you have a `config.env` declared in the root directory with the `DB_PATH` variable set to your Mongo URI.
-2. `yarn` to install packages
-3. `yarn dev` to run the app
+2. `yarn` 
+3. `yarn dev`
