@@ -2,7 +2,7 @@
 
 A GraphQL API I created to improve my back-end skills.
 
-Technologies used: TypeScript, MongoDB, Mongoose, GraphQL.
+Technologies used: TypeScript, Apollo Server, GraphQL, Mongoose, MongoDB.
 
 ## Running Locally
 
